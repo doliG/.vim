@@ -1,0 +1,6 @@
+[submodule "emmet-vim"]
+	path = emmet-vim
+	url = ./bundle/emmet-vim
+[submodule "rust.vim"]
+	path = rust.vim
+	url = ./bundle/rust.vim
